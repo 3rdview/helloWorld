@@ -3,7 +3,7 @@ name: DIY FE Template
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 'VenoMKO'
+assignees: ['VenoMKO']
 
 ---
 
